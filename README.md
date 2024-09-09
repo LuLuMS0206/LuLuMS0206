@@ -13,8 +13,6 @@
   <strong>📫 How to reach me:</strong> <a href="mailto:luciamacho00@gmail.com">luciamacho00@gmail.com</a>
 </p>
 
-<h3 align="center">Connect with me:</h3>
-<p align="center"></p>
 
 <h3 align="center">Languages and Tools:</h3>
 <p align="center">
